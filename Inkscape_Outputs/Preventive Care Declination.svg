@@ -1,0 +1,2602 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="192.617mm" height="138.112mm"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<title>Preventive Care Declination</title>
+<desc>Rendered by Tableau</desc>
+<defs>
+<clipPath id="clipPath1">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L729,43 L729,481 L0,481 L0,43"/>
+</clipPath>
+<clipPath id="clipPath2">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L729,43 L729,481 L0,481 L0,43"/>
+</clipPath>
+<clipPath id="clipPath3">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L728,43 L728,481 L0,481 L0,43"/>
+</clipPath>
+<clipPath id="clipPath4">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L729,43 L729,481 L0,481 L0,43"/>
+</clipPath>
+<clipPath id="clipPath5">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L729,43 L729,481 L0,481 L0,43"/>
+</clipPath>
+<clipPath id="clipPath6">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L729,43 L729,481 L0,481 L0,43"/>
+</clipPath>
+<clipPath id="clipPath7">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L729,43 L729,481 L0,481 L0,43"/>
+</clipPath>
+<clipPath id="clipPath8">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L729,43 L729,481 L0,481 L0,43"/>
+</clipPath>
+<clipPath id="clipPath9">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L728,43 L728,480 L0,480 L0,43"/>
+</clipPath>
+<clipPath id="clipPath10">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L729,43 L729,481 L0,481 L0,43"/>
+</clipPath>
+<clipPath id="clipPath11">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L728,43 L728,480 L0,480 L0,43"/>
+</clipPath>
+<clipPath id="clipPath12">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L729,43 L729,481 L0,481 L0,43"/>
+</clipPath>
+<clipPath id="clipPath13">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L728,43 L728,480 L0,480 L0,43"/>
+</clipPath>
+<clipPath id="clipPath14">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L729,43 L729,481 L0,481 L0,43"/>
+</clipPath>
+<clipPath id="clipPath15">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L728,43 L728,480 L0,480 L0,43"/>
+</clipPath>
+<clipPath id="clipPath16">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L729,43 L729,481 L0,481 L0,43"/>
+</clipPath>
+<clipPath id="clipPath17">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L728,43 L728,480 L0,480 L0,43"/>
+</clipPath>
+<clipPath id="clipPath18">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L729,43 L729,481 L0,481 L0,43"/>
+</clipPath>
+<clipPath id="clipPath19">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L728,43 L728,480 L0,480 L0,43"/>
+</clipPath>
+<clipPath id="clipPath20">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L729,43 L729,481 L0,481 L0,43"/>
+</clipPath>
+<clipPath id="clipPath21">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L729,43 L729,481 L0,481 L0,43"/>
+</clipPath>
+<clipPath id="clipPath22">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L728,43 L728,480 L0,480 L0,43"/>
+</clipPath>
+<clipPath id="clipPath23">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L729,43 L729,481 L0,481 L0,43"/>
+</clipPath>
+<clipPath id="clipPath24">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L728,43 L728,480 L0,480 L0,43"/>
+</clipPath>
+<clipPath id="clipPath25">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L729,43 L729,481 L0,481 L0,43"/>
+</clipPath>
+<clipPath id="clipPath26">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L728,43 L728,480 L0,480 L0,43"/>
+</clipPath>
+<clipPath id="clipPath27">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L729,43 L729,481 L0,481 L0,43"/>
+</clipPath>
+<clipPath id="clipPath28">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L728,43 L728,480 L0,480 L0,43"/>
+</clipPath>
+<clipPath id="clipPath29">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L729,43 L729,481 L0,481 L0,43"/>
+</clipPath>
+<clipPath id="clipPath30">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L728,43 L728,480 L0,480 L0,43"/>
+</clipPath>
+<clipPath id="clipPath31">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L729,43 L729,481 L0,481 L0,43"/>
+</clipPath>
+<clipPath id="clipPath32">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L728,43 L728,480 L0,480 L0,43"/>
+</clipPath>
+<clipPath id="clipPath33">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L728,43 L728,480 L0,480 L0,43"/>
+</clipPath>
+<clipPath id="clipPath34">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L728,43 L728,480 L0,480 L0,43"/>
+</clipPath>
+<clipPath id="clipPath35">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L728,43 L728,480 L0,480 L0,43"/>
+</clipPath>
+<clipPath id="clipPath36">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L729,43 L729,481 L0,481 L0,43"/>
+</clipPath>
+<clipPath id="clipPath37">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L729,43 L729,481 L0,481 L0,43"/>
+</clipPath>
+<clipPath id="clipPath38">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L728,43 L728,480 L0,480 L0,43"/>
+</clipPath>
+<clipPath id="clipPath39">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L729,43 L729,481 L0,481 L0,43"/>
+</clipPath>
+<clipPath id="clipPath40">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L728,43 L728,480 L0,480 L0,43"/>
+</clipPath>
+<clipPath id="clipPath41">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L729,43 L729,481 L0,481 L0,43"/>
+</clipPath>
+<clipPath id="clipPath42">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L728,43 L728,480 L0,480 L0,43"/>
+</clipPath>
+<clipPath id="clipPath43">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L729,43 L729,481 L0,481 L0,43"/>
+</clipPath>
+<clipPath id="clipPath44">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L728,43 L728,480 L0,480 L0,43"/>
+</clipPath>
+<clipPath id="clipPath45">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L729,43 L729,481 L0,481 L0,43"/>
+</clipPath>
+<clipPath id="clipPath46">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L728,43 L728,480 L0,480 L0,43"/>
+</clipPath>
+<clipPath id="clipPath47">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L729,43 L729,481 L0,481 L0,43"/>
+</clipPath>
+<clipPath id="clipPath48">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L728,43 L728,480 L0,480 L0,43"/>
+</clipPath>
+<clipPath id="clipPath49">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L729,43 L729,481 L0,481 L0,43"/>
+</clipPath>
+<clipPath id="clipPath50">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L729,43 L729,481 L0,481 L0,43"/>
+</clipPath>
+<clipPath id="clipPath51">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L728,43 L728,480 L0,480 L0,43"/>
+</clipPath>
+<clipPath id="clipPath52">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L729,43 L729,481 L0,481 L0,43"/>
+</clipPath>
+<clipPath id="clipPath53">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L728,43 L728,480 L0,480 L0,43"/>
+</clipPath>
+<clipPath id="clipPath54">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L729,43 L729,481 L0,481 L0,43"/>
+</clipPath>
+<clipPath id="clipPath55">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L728,43 L728,480 L0,480 L0,43"/>
+</clipPath>
+<clipPath id="clipPath56">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L729,43 L729,481 L0,481 L0,43"/>
+</clipPath>
+<clipPath id="clipPath57">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L728,43 L728,480 L0,480 L0,43"/>
+</clipPath>
+<clipPath id="clipPath58">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L729,43 L729,481 L0,481 L0,43"/>
+</clipPath>
+<clipPath id="clipPath59">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L728,43 L728,480 L0,480 L0,43"/>
+</clipPath>
+<clipPath id="clipPath60">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L729,43 L729,481 L0,481 L0,43"/>
+</clipPath>
+<clipPath id="clipPath61">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L728,43 L728,480 L0,480 L0,43"/>
+</clipPath>
+<clipPath id="clipPath62">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L728,43 L728,480 L0,480 L0,43"/>
+</clipPath>
+<clipPath id="clipPath63">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L728,43 L728,480 L0,480 L0,43"/>
+</clipPath>
+<clipPath id="clipPath64">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L728,43 L728,480 L0,480 L0,43"/>
+</clipPath>
+<clipPath id="clipPath65">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L729,43 L729,481 L0,481 L0,43"/>
+</clipPath>
+<clipPath id="clipPath66">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L729,43 L729,481 L0,481 L0,43"/>
+</clipPath>
+<clipPath id="clipPath67">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L728,43 L728,480 L0,480 L0,43"/>
+</clipPath>
+<clipPath id="clipPath68">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L729,43 L729,481 L0,481 L0,43"/>
+</clipPath>
+<clipPath id="clipPath69">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L728,43 L728,480 L0,480 L0,43"/>
+</clipPath>
+<clipPath id="clipPath70">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L729,43 L729,481 L0,481 L0,43"/>
+</clipPath>
+<clipPath id="clipPath71">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L728,43 L728,480 L0,480 L0,43"/>
+</clipPath>
+<clipPath id="clipPath72">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L729,43 L729,481 L0,481 L0,43"/>
+</clipPath>
+<clipPath id="clipPath73">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L728,43 L728,480 L0,480 L0,43"/>
+</clipPath>
+<clipPath id="clipPath74">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L729,43 L729,481 L0,481 L0,43"/>
+</clipPath>
+<clipPath id="clipPath75">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L728,43 L728,480 L0,480 L0,43"/>
+</clipPath>
+<clipPath id="clipPath76">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L729,43 L729,481 L0,481 L0,43"/>
+</clipPath>
+<clipPath id="clipPath77">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L728,43 L728,480 L0,480 L0,43"/>
+</clipPath>
+<clipPath id="clipPath78">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L729,43 L729,481 L0,481 L0,43"/>
+</clipPath>
+<clipPath id="clipPath79">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L729,43 L729,481 L0,481 L0,43"/>
+</clipPath>
+<clipPath id="clipPath80">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L728,43 L728,480 L0,480 L0,43"/>
+</clipPath>
+<clipPath id="clipPath81">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L729,43 L729,481 L0,481 L0,43"/>
+</clipPath>
+<clipPath id="clipPath82">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L728,43 L728,480 L0,480 L0,43"/>
+</clipPath>
+<clipPath id="clipPath83">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L729,43 L729,481 L0,481 L0,43"/>
+</clipPath>
+<clipPath id="clipPath84">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L728,43 L728,480 L0,480 L0,43"/>
+</clipPath>
+<clipPath id="clipPath85">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L729,43 L729,481 L0,481 L0,43"/>
+</clipPath>
+<clipPath id="clipPath86">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L728,43 L728,480 L0,480 L0,43"/>
+</clipPath>
+<clipPath id="clipPath87">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L729,43 L729,481 L0,481 L0,43"/>
+</clipPath>
+<clipPath id="clipPath88">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L728,43 L728,480 L0,480 L0,43"/>
+</clipPath>
+<clipPath id="clipPath89">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L729,43 L729,481 L0,481 L0,43"/>
+</clipPath>
+<clipPath id="clipPath90">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L728,43 L728,480 L0,480 L0,43"/>
+</clipPath>
+<clipPath id="clipPath91">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L728,43 L728,480 L0,480 L0,43"/>
+</clipPath>
+<clipPath id="clipPath92">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L728,43 L728,480 L0,480 L0,43"/>
+</clipPath>
+<clipPath id="clipPath93">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L728,43 L728,480 L0,480 L0,43"/>
+</clipPath>
+<clipPath id="clipPath94">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L729,43 L729,481 L0,481 L0,43"/>
+</clipPath>
+<clipPath id="clipPath95">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L729,43 L729,481 L0,481 L0,43"/>
+</clipPath>
+<clipPath id="clipPath96">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L729,43 L729,481 L0,481 L0,43"/>
+</clipPath>
+<clipPath id="clipPath97">
+<path vector-effect="none" fill-rule="evenodd" d="M0,43 L729,43 L729,481 L0,481 L0,43"/>
+</clipPath>
+</defs>
+<g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<rect x="0" y="0" width="728" height="522"/>
+</g>
+
+<g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<rect x="0" y="43" width="728" height="437"/>
+</g>
+
+<g clip-path="url(#clipPath1)"><g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath2)"><g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath2)"><g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<rect x="0" y="0" width="729" height="438"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath2)"><g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<rect x="0" y="0" width="729" height="438"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath3)"><g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath3)"><g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<rect x="0" y="0" width="729" height="438"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath4)"><g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath5)"><g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath6)"><g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath7)"><g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath7)"><g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<rect x="0" y="0" width="729" height="438"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath8)"><g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath9)"><g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath10)"><g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath11)"><g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath12)"><g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath13)"><g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath13)"><g fill="none" stroke="#cbcbcb" stroke-opacity="1" stroke-dasharray="1,2" stroke-dashoffset="0" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="0,437 728,437 " />
+</g>
+</g>
+
+<g clip-path="url(#clipPath14)"><g fill="none" stroke="#cbcbcb" stroke-opacity="1" stroke-dasharray="1,2" stroke-dashoffset="0" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath15)"><g fill="none" stroke="#cbcbcb" stroke-opacity="1" stroke-dasharray="1,2" stroke-dashoffset="0" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath15)"><g fill="none" stroke="#cbcbcb" stroke-opacity="1" stroke-dasharray="1,2" stroke-dashoffset="0" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="0,436 0,0 " />
+</g>
+</g>
+
+<g clip-path="url(#clipPath16)"><g fill="none" stroke="#cbcbcb" stroke-opacity="1" stroke-dasharray="1,2" stroke-dashoffset="0" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath17)"><g fill="none" stroke="#cbcbcb" stroke-opacity="1" stroke-dasharray="1,2" stroke-dashoffset="0" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath18)"><g fill="none" stroke="#cbcbcb" stroke-opacity="1" stroke-dasharray="1,2" stroke-dashoffset="0" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath19)"><g fill="none" stroke="#cbcbcb" stroke-opacity="1" stroke-dasharray="1,2" stroke-dashoffset="0" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath20)"><g fill="none" stroke="#cbcbcb" stroke-opacity="1" stroke-dasharray="1,2" stroke-dashoffset="0" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath21)"><g fill="none" stroke="#cbcbcb" stroke-opacity="1" stroke-dasharray="1,2" stroke-dashoffset="0" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath22)"><g fill="none" stroke="#cbcbcb" stroke-opacity="1" stroke-dasharray="1,2" stroke-dashoffset="0" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath23)"><g fill="none" stroke="#cbcbcb" stroke-opacity="1" stroke-dasharray="1,2" stroke-dashoffset="0" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath24)"><g fill="none" stroke="#cbcbcb" stroke-opacity="1" stroke-dasharray="1,2" stroke-dashoffset="0" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath25)"><g fill="none" stroke="#cbcbcb" stroke-opacity="1" stroke-dasharray="1,2" stroke-dashoffset="0" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath26)"><g fill="none" stroke="#cbcbcb" stroke-opacity="1" stroke-dasharray="1,2" stroke-dashoffset="0" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath27)"><g fill="none" stroke="#cbcbcb" stroke-opacity="1" stroke-dasharray="1,2" stroke-dashoffset="0" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath28)"><g fill="none" stroke="#cbcbcb" stroke-opacity="1" stroke-dasharray="1,2" stroke-dashoffset="0" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath29)"><g fill="none" stroke="#cbcbcb" stroke-opacity="1" stroke-dasharray="1,2" stroke-dashoffset="0" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#cbcbcb" stroke-opacity="1" stroke-dasharray="1,2" stroke-dashoffset="0" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="403.359" cy="422.938" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="200.23" cy="422.847" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="362.589" cy="423.549" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="401.682" cy="422.44" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="211.409" cy="420.198" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="264.132" cy="422.326" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="316.717" cy="422.123" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="140.083" cy="422.123" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="142.845" cy="405.024" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="352.744" cy="421.806" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="309.169" cy="423.029" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="186.235" cy="387.586" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="222.822" cy="424.387" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="227.037" cy="423.481" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="617.354" cy="422.576" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="464.89" cy="371.325" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="98.8779" cy="421.738" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="310.872" cy="421.851" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="245.985" cy="408.897" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="269.321" cy="364.894" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="304.106" cy="421.941" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="190.498" cy="393.384" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="347.921" cy="422.213" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="252.008" cy="410.89" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="195.252" cy="420.854" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="374.371" cy="420.99" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="313.705" cy="407.108" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="509.209" cy="423.029" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="280.426" cy="422.666" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="263.796" cy="422.53" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="425.868" cy="422.621" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="319.983" cy="422.462" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="265.616" cy="406.564" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="268.528" cy="420.9" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="403.3" cy="403.597" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="277.736" cy="420.696" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="319.891" cy="407.878" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="300.475" cy="421.987" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="250.58" cy="405.862" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="332.723" cy="422.44" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="116.854" cy="421.806" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="297.964" cy="409.395" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="203.502" cy="422.961" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="202.621" cy="392.817" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="163.117" cy="423.64" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="329.172" cy="422.077" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="420.018" cy="420.945" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="268.11" cy="421.466" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="337.376" cy="423.663" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="287.086" cy="422.394" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="403.481" cy="421.443" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="245.289" cy="422.009" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="240.016" cy="421.239" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="251.95" cy="424.546" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="159.342" cy="365.754" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="287.974" cy="408.353" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="302.941" cy="422.123" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="288.9" cy="423.844" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="139.754" cy="393.519" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="325.611" cy="391.413" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="220.314" cy="422.259" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="248.367" cy="315.84" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="343.565" cy="251.024" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="198.329" cy="381.698" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="314.052" cy="377.168" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="246.8" cy="421.624" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="146.983" cy="420.99" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="298.626" cy="302.501" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="357.342" cy="403.258" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="288.267" cy="421.806" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="244.443" cy="421.783" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="260.376" cy="420.673" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="348.235" cy="421.058" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="400.159" cy="423.504" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="323.549" cy="382.468" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="400.654" cy="422.621" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="280.406" cy="405.772" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="154.767" cy="419.835" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="162.844" cy="422.983" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="259.196" cy="388.99" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="360.951" cy="422.847" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="225.126" cy="422.711" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="510.79" cy="420.741" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="330.996" cy="422.032" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="271.612" cy="422.915" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="329.83" cy="388.016" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="253.113" cy="388.107" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="173.548" cy="421.534" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="481.58" cy="420.968" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="236.229" cy="210.396" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="319.301" cy="421.217" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="176.985" cy="423.187" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="346.567" cy="407.266" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="173.03" cy="371.484" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="329.6" cy="422.236" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="192.01" cy="421.602" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="127.325" cy="403.779" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="236.257" cy="420.152" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="170.156" cy="422.372" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="442.02" cy="420.334" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="302.403" cy="410.844" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="355.58" cy="387.133" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="271.061" cy="423.164" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="436.814" cy="407.244" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="393.28" cy="420.741" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="305.873" cy="423.617" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="221.815" cy="422.349" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="407.431" cy="420.832" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="178.437" cy="422.893" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="161.265" cy="369.672" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="357.316" cy="370.986" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="223.239" cy="419.903" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="453.986" cy="422.847" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="383.643" cy="422.077" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="350.513" cy="422.349" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="340.754" cy="408.399" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="294.704" cy="286.535" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="361.498" cy="420.583" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="281.114" cy="421.534" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="344.25" cy="422.281" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="227.462" cy="405.613" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="398.049" cy="420.651" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="388.71" cy="422.689" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="316.983" cy="26.0714" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="195.196" cy="421.964" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="432.381" cy="421.013" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="253.709" cy="421.307" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="275.488" cy="421.489" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="253.508" cy="410.731" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="197.936" cy="422.915" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="369.07" cy="424.093" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="257.141" cy="422.961" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="278.855" cy="390.009" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="339.343" cy="420.854" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="309.017" cy="421.806" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="313.464" cy="421.783" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="194.33" cy="351.26" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="433.899" cy="422.553" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="219.114" cy="386.725" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="273.161" cy="421.307" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="200.446" cy="406.994" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="342.191" cy="419.609" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="335.421" cy="421.511" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="202.711" cy="389.828" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="280.079" cy="329.451" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="310.223" cy="377.236" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="383.13" cy="421.421" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="326.007" cy="403.552" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="321.746" cy="420.696" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="174.96" cy="421.353" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="447.746" cy="420.854" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="213.245" cy="388.469" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="618.6" cy="377.87" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="221.571" cy="374.858" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="402.225" cy="421.738" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="328.657" cy="391.187" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="338.285" cy="420.379" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="200.177" cy="374.202" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="358.964" cy="422.259" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="373.593" cy="422.462" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="397.711" cy="420.13" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="271.789" cy="422.757" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="308.237" cy="372.752" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="491.415" cy="408.263" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="343.077" cy="420.854" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="170.908" cy="405.454" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="236.243" cy="421.104" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="369.583" cy="421.217" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="248.928" cy="385.027" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="311.793" cy="403.847" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="329.847" cy="408.602" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="235.57" cy="422.847" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="379.814" cy="420.537" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="313.144" cy="420.922" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="134.912" cy="421.783" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="335.294" cy="407.108" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="610.037" cy="419.835" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="559.149" cy="423.459" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="215.617" cy="423.323" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="275.202" cy="424.274" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="174.807" cy="406.972" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="482.992" cy="422.281" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="113.48" cy="423.119" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="328.107" cy="420.968" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="245.408" cy="422.598" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="328.045" cy="330.357" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="363.54" cy="404.367" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="194.64" cy="405.273" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="385.541" cy="421.171" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="305.624" cy="346.346" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="180.683" cy="377.87" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="322.275" cy="421.398" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="133.734" cy="376.783" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="276.503" cy="422.349" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="689.071" cy="420.56" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="266.453" cy="378.799" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="247.056" cy="422.915" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="333.307" cy="420.175" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="471.25" cy="422.123" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="237.88" cy="423.572" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="309.141" cy="425.135" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="618.341" cy="422.53" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="251.809" cy="420.22" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="340.04" cy="420.854" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="476.497" cy="420.469" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="408.288" cy="422.553" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="332.762" cy="421.307" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="207.472" cy="421.647" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="264.152" cy="256.392" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="226.943" cy="403.099" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="254.174" cy="405.319" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="493.237" cy="405.002" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="190.603" cy="422.009" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="252.811" cy="410.324" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="390.472" cy="421.421" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="346.426" cy="422.009" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="542.114" cy="419.654" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="332.872" cy="422.938" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="350.265" cy="424.048" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="255.266" cy="421.67" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="265.57" cy="423.572" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="285.191" cy="421.647" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="197.192" cy="420.515" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="179.527" cy="408.987" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="184.089" cy="425.225" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="286.552" cy="422.508" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="251.946" cy="421.307" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="236.332" cy="420.764" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="215.388" cy="305.128" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="453.628" cy="421.534" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="230.811" cy="410.822" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="225" cy="424.025" r="4.79167"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath31)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath32)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath33)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath34)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath34)"><g fill="none" stroke="#000000" stroke-opacity="0.403922" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M0,396.166 L5,396.331 L10,396.496 L15,396.661 L20,396.826 L25,396.991 L30,397.157 L35,397.322 L40,397.487 L45,397.652 L50,397.817 L55,397.982 L60,398.147 L65,398.312 L70,398.478 L75,398.643 L80,398.808 L85,398.973 L90,399.138 L95,399.303 L100,399.468 L105,399.633 L110,399.799 L115,399.964 L120,400.129 L125,400.294 L130,400.459 L135,400.624 L140,400.789 L145,400.954 L150,401.12 L155,401.285 L160,401.45 L165,401.615 L170,401.78 L175,401.945 L180,402.11 L185,402.275 L190,402.441 L195,402.606 L200,402.771 L205,402.936 L210,403.101 L215,403.266 L220,403.431 L225,403.596 L230,403.762 L235,403.927 L240,404.092 L245,404.257 L250,404.422 L255,404.587 L260,404.752 L265,404.917 L270,405.083 L275,405.248 L280,405.413 L285,405.578 L290,405.743 L295,405.908 L300,406.073 L305,406.238 L310,406.404 L315,406.569 L320,406.734 L325,406.899 L330,407.064 L335,407.229 L340,407.394 L345,407.559 L350,407.725 L355,407.89 L360,408.055 L365,408.22 L370,408.385 L375,408.55 L380,408.715 L385,408.88 L390,409.046 L395,409.211 L400,409.376 L405,409.541 L410,409.706 L415,409.871 L420,410.036 L425,410.201 L430,410.367 L435,410.532 L440,410.697 L445,410.862 L450,411.027 L455,411.192 L460,411.357 L465,411.522 L470,411.688 L475,411.853 L480,412.018 L485,412.183 L490,412.348 L495,412.513 L500,412.678 L505,412.843 L510,413.009 L515,413.174 L520,413.339 L525,413.504 L530,413.669 L535,413.834 L540,413.999 L545,414.164 L550,414.33 L555,414.495 L560,414.66 L565,414.825 L570,414.99 L575,415.155 L580,415.32 L585,415.485 L590,415.651 L595,415.816 L600,415.981 L605,416.146 L610,416.311 L615,416.476 L620,416.641 L625,416.806 L630,416.972 L635,417.137 L640,417.302 L645,417.467 L650,417.632 L655,417.797 L660,417.962 L665,418.128 L670,418.293 L675,418.458 L680,418.623 L685,418.788 L690,418.953 L695,419.118 L700,419.283 L705,419.449 L710,419.614 L715,419.779 L720,419.944 L725,420.109 L730,420.274"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath35)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath36)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath37)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath38)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath39)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath40)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath41)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath42)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath43)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath44)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath45)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath46)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath47)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath48)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath49)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath50)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath51)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath52)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath53)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath54)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath55)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath56)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath57)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath58)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath59)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath60)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath61)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath62)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath63)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath64)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath65)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath66)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath67)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath68)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath69)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath70)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath71)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath72)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath73)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath74)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath75)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath76)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath77)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath78)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath79)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath80)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath81)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath82)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath83)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath84)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath85)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath86)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath87)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath88)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath89)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath90)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath91)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath92)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath93)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath94)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath95)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath96)"><g fill="none" stroke="#4e79a7" stroke-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g clip-path="url(#clipPath96)"><g fill="none" stroke="#f5f5f5" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="0,437 728,437 " />
+<polyline fill="none" vector-effect="none" points="0,0 0,437 " />
+</g>
+</g>
+
+<g clip-path="url(#clipPath97)"><g fill="none" stroke="#f5f5f5" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+
+<g fill="none" stroke="#f5f5f5" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,43)"
+font-family="Benton Sans Book" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#333333" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="20" font-weight="400" font-style="normal" 
+>
+<text fill="#333333" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="27" font-family="Arial" font-size="20" font-weight="400" font-style="normal" 
+ >Frequency of Preventive Care Declines as Poverty Rises</text>
+</g>
+
+<g fill="none" stroke="#666666" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="12" font-weight="400" font-style="normal" 
+>
+<text fill="#666666" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="499" font-family="Arial" font-size="12" font-weight="400" font-style="normal" 
+ >Average of Poverty Rate vs. sum of Prevalence.  Details are shown for County. The data is filtered on Health Concern, which keeps</text>
+</g>
+
+<g fill="none" stroke="#666666" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="12" font-weight="400" font-style="normal" 
+>
+<text fill="#666666" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="513" font-family="Arial" font-size="12" font-weight="400" font-style="normal" 
+ >Visits to doctor for routine checkup within the past Year among adults aged &gt;=18 Years.</text>
+</g>
+</g>
+</svg>

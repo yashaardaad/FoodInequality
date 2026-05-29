@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="251.354mm"
+   height="113.771mm"
+   version="1.1"
+   id="svg172"
+   sodipodi:docname="Scanning Differences in Food Insecurity and Poverty.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview172"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.917896"
+     inkscape:cx="475.26039"
+     inkscape:cy="215.07944"
+     inkscape:window-width="1920"
+     inkscape:window-height="1129"
+     inkscape:window-x="1917"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g172" />
+  <title
+     id="title1">Scanning Differences in Food Insecurity and Poverty</title>
+  <desc
+     id="desc1">Rendered by Tableau</desc>
+  <defs
+     id="defs42">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath182">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M -1,-1 H 153 V 305 H -1 V -1"
+         id="path183" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath183">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M 0,0 H 797 V 305 H 0 V 0"
+         id="path184" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath184">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M 0,0 H 797 V 305 H 0 V 0"
+         id="path185" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath185">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="m 152.5214,83 h 797 v 305 h -797 V 83"
+         id="path186" />
+    </clipPath>
+  </defs>
+  <g
+     fill="none"
+     stroke="black"
+     stroke-width="1"
+     fill-rule="evenodd"
+     stroke-linecap="square"
+     stroke-linejoin="bevel"
+     id="g172">
+    <rect
+       x="-0.52140474"
+       y="1.0428094"
+       width="950"
+       height="430"
+       id="rect42"
+       style="font-style:normal;font-weight:400;font-size:13.3333px;font-family:'Benton Sans Book';fill:#ffffff;fill-opacity:1;stroke:none" />
+    <rect
+       x="104.80235"
+       y="24.750834"
+       width="948"
+       height="344"
+       id="rect43"
+       style="font-style:normal;font-weight:400;font-size:13.3333px;font-family:'Benton Sans Book';fill:#ffffff;fill-opacity:1;stroke:none" />
+    <text
+       fill="#333333"
+       fill-opacity="1"
+       stroke="none"
+       xml:space="preserve"
+       x="5.4785953"
+       y="78.042809"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="text45"
+       style="stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">Poverty Bucket</text>
+    <text
+       fill="#333333"
+       fill-opacity="1"
+       stroke="none"
+       xml:space="preserve"
+       x="636.03613"
+       y="43.443478"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="text50"
+       style="stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">Food Insecurity Bucket</text>
+    <text
+       fill="#333333"
+       fill-opacity="1"
+       stroke="none"
+       xml:space="preserve"
+       x="435.50958"
+       y="78.042809"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="text52"
+       style="stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">High Food Insecurity </text>
+    <text
+       fill="#333333"
+       fill-opacity="1"
+       stroke="none"
+       xml:space="preserve"
+       x="836.16663"
+       y="78.042809"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="text54"
+       style="stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">Low Food Insecurity</text>
+    <text
+       fill="#333333"
+       fill-opacity="1"
+       stroke="none"
+       xml:space="preserve"
+       x="5.4785953"
+       y="164.04282"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="text59"
+       style="stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">High Poverty</text>
+    <rect
+       x="-0.52140474"
+       y="236.04282"
+       width="152"
+       height="152"
+       id="rect61"
+       style="font-style:normal;font-weight:400;font-size:12px;font-family:Arial;fill:#f5f5f5;fill-opacity:1;stroke:none" />
+    <text
+       fill="#333333"
+       fill-opacity="1"
+       stroke="none"
+       xml:space="preserve"
+       x="5.4785953"
+       y="316.04282"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="text63"
+       style="stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">Low Poverty</text>
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="152,0 0,0 "
+       id="polyline65"
+       transform="translate(-0.52140471,84.042809)"
+       style="font-style:normal;font-weight:400;font-size:12px;font-family:Arial;stroke:#cbcbcb;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+       clip-path="url(#clipPath182)" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="152,304 0,304 "
+       id="polyline66"
+       transform="translate(-0.52140471,84.042809)"
+       style="font-style:normal;font-weight:400;font-size:12px;font-family:Arial;stroke:#cbcbcb;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+    <rect
+       x="151.47858"
+       y="84.042809"
+       width="797"
+       height="305"
+       id="rect74"
+       style="font-style:normal;font-weight:400;font-size:12px;font-family:Arial;fill:#ffffff;fill-opacity:1;stroke:none" />
+    <rect
+       x="151.47858"
+       y="84.042809"
+       width="797"
+       height="305"
+       id="rect76"
+       style="font-style:normal;font-weight:400;font-size:12px;font-family:Arial;fill:#ffffff;fill-opacity:1;stroke:none" />
+    <rect
+       x="151.47858"
+       y="84.042809"
+       width="797"
+       height="305"
+       id="rect80"
+       style="font-style:normal;font-weight:400;font-size:12px;font-family:Arial;fill:#ffffff;fill-opacity:1;stroke:none" />
+    <rect
+       x="151.47858"
+       y="84.042809"
+       width="797"
+       height="305"
+       id="rect90"
+       style="font-style:normal;font-weight:400;font-size:12px;font-family:Arial;fill:#ffffff;fill-opacity:1;stroke:none" />
+    <rect
+       x="152.52139"
+       y="235"
+       width="796"
+       height="152"
+       id="rect92"
+       style="font-style:normal;font-weight:400;font-size:12px;font-family:Arial;fill:#f5f5f5;fill-opacity:1;stroke:none"
+       clip-path="url(#clipPath185)"
+       transform="translate(-1.0428094,1.0428094)" />
+    <text
+       fill="#333333"
+       fill-opacity="1"
+       stroke="none"
+       xml:space="preserve"
+       x="903.47864"
+       y="316.04282"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="text108"
+       style="stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">27.937</text>
+    <text
+       fill="#333333"
+       fill-opacity="1"
+       stroke="none"
+       xml:space="preserve"
+       x="903.47864"
+       y="164.04282"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="text112"
+       style="stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">30.037</text>
+    <text
+       fill="#333333"
+       fill-opacity="1"
+       stroke="none"
+       xml:space="preserve"
+       x="505.47858"
+       y="316.04282"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="text116"
+       style="stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">29.512</text>
+    <text
+       fill="#333333"
+       fill-opacity="1"
+       stroke="none"
+       xml:space="preserve"
+       x="505.47858"
+       y="164.04282"
+       font-family="Arial"
+       font-size="12px"
+       font-weight="400"
+       font-style="normal"
+       id="text120"
+       style="stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;fill:#ff0000;-inkscape-font-specification:'Arial, Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill-opacity:1;stroke:none">33.531</text>
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="0,0 796,0 "
+       id="polyline164"
+       transform="translate(151.47859,84.042809)"
+       style="font-style:normal;font-weight:400;font-size:12px;font-family:Arial;stroke:#cbcbcb;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+       clip-path="url(#clipPath184)" />
+    <polyline
+       fill="none"
+       vector-effect="none"
+       points="0,304 796,304 "
+       id="polyline165"
+       transform="translate(151.47859,84.042809)"
+       style="font-style:normal;font-weight:400;font-size:12px;font-family:Arial;stroke:#cbcbcb;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+       clip-path="url(#clipPath183)" />
+    <text
+       fill="#333333"
+       fill-opacity="1"
+       stroke="none"
+       xml:space="preserve"
+       x="3.4785953"
+       y="28.042809"
+       font-family="Arial"
+       font-size="20px"
+       font-weight="400"
+       font-style="normal"
+       id="text169"
+       style="stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">Counties Facing Both Crises See the Worst Health Outcomes</text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#ff0000"
+       x="439.02277"
+       y="157.46422"
+       id="text186"><tspan
+         id="tspan186"
+         sodipodi:role="line"></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#999999"
+       x="400.43881"
+       y="201.26222"
+       id="text187"><tspan
+         sodipodi:role="line"
+         id="tspan187"
+         x="400.43881"
+         y="201.26222" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#999999"
+       x="385.31808"
+       y="192.91974"
+       id="text188"><tspan
+         sodipodi:role="line"
+         id="tspan188"
+         x="385.31808"
+         y="192.91974" /></text>
+  </g>
+  <metadata
+     id="metadata189">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Scanning Differences in Food Insecurity and Poverty</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
